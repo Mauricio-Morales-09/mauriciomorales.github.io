@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/77/42/0d/77420df3f9e33db5b79ee25455d3340e.png);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#contenido { 
+    width: 800px; 
+    margin: 0 auto; 
+}
+
+h1{
+    color:aliceblue;
+    text-align: center ;
+}
+
+h2 {
+    color:khaki;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: khaki 3px solid ;
+    color: khaki;
+}
+
+td {
+    border: khaki 3px solid ;
+}
